@@ -1,0 +1,16 @@
+
+/* this is a comment */
+div#container {
+	width: 100%;
+}
+div#menu {
+	float: left;
+	background-color: red;
+	width: 30%;
+}
+
+div#content {
+	float: right;
+	background-color: green;
+	width: 70%;
+}
